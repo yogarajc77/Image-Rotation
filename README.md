@@ -10,6 +10,7 @@ https://yogarajc77.github.io/Image-Rotation/
 
 ---
 
+
 ##  Features
 
 * Rotate images with button controls
@@ -29,7 +30,7 @@ https://yogarajc77.github.io/Image-Rotation/
 
 ##  Project Structure
 
-```
+
 Image-Rotation
 
 ─ index.html
@@ -58,7 +59,7 @@ Image-Rotation
 
 ##  Screenshot
 
-(Add your project screenshot here)
+ ![Image Rotation Preview](output.png)
 
 ---
 
@@ -68,7 +69,7 @@ Image-Rotation
 
 * GitHub: 
 
----
+-- https://github.com/yogarajc77
 
 ##  Acknowledgement
 
