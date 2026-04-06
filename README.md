@@ -22,9 +22,9 @@ https://yogarajc77.github.io/Image-Rotation/
 
 ##  Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript (Vanilla JS)
+* HTML
+* CSS
+* JavaScript
 
 ---
 
